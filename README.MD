@@ -1,7 +1,7 @@
 # BLOOD BANK MANAGEMENT SYSTEM
 
 ## Getting Started
-
+Project made IN  4th sem ISE DBMS mini project. The goal was just to demonstrate the database structure for the blood bank. The project does not meant to use in a real web server. It does not provide much security systems as well. 
 
 
 ### Project File Structure
@@ -33,7 +33,7 @@ if you are running the project locally, the project folder should be placed in t
 
 ### Development Environment
 
-- Windows 10
+- Windows 11
 
 ### External Resources/Plugins
 
@@ -46,9 +46,9 @@ if you are running the project locally, the project folder should be placed in t
 ### To login to the application
 - As admin
 
-    username:   SuperAdmin
+    username:   Admin
     
-    password:   12345678
+    password:   1234567890
   
 - As employee
 
@@ -61,7 +61,5 @@ if you are running the project locally, the project folder should be placed in t
 
 If you want to contribute to this project, please refer to the [Contributing Guidelines](CONTRIBUTING.MD).
 
-## License
 
-This project has been assigned the [MIT License](LICENSE), so go ahead and feel free to use any and/or all parts of this system and to build on it. Although I would still insist that if you do end up improving this, do accidentally contribute, it would be an honour.
 
